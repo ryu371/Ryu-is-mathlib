@@ -15,7 +15,7 @@ Permutations & Combinations
 
 Trigonometric functions (sin, cos, tan, etc.)
 
-How to get it:
+How to get it?:
 
 Go to GitHub.
 
@@ -27,6 +27,12 @@ download ryu-is-mathlib zipfile
 How to import:
 
 Extract the ZIP file.
+
+or
+
+```bash
+pip install git+https://github.com/ryu371/Ryu-is-mathlibrary
+```
 
 Use import RyuEngine in your Python script.
 
