@@ -20,7 +20,7 @@ Go to GitHub.
 Search for ryu-is-mathlib.
 
 open the release
-download yu-is-mathlib0.11
+download ryu-is-mathlib zipfile
 
 How to import:
 
@@ -28,4 +28,5 @@ Extract the ZIP file.
 
 Use import RyuEngine in your Python script.
 
+'''
 import RyuEngine
